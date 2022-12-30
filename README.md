@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImEtienne
+- 👋 Hi, I’m Etienne KIBONGANI LOMBO
 - 👀 I’m interested in web and software development
 - 📫 How to reach me :
     - email : etiennekibonganiwork@gmail.com
