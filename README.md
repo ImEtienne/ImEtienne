@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Etienne KIBONGANI LOMBO
 - 👀 I’m interested in web and software development
 - 📫 How to reach me :
-    - email : etiennekibonganiwork@gmail.com && etienne.kibongani-lombo@etu.u-pec.fr
+    - email : etiennekibonganiwork@gmail.com
 
 <!---
 ImEtienne/ImEtienne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
