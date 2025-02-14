@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imetienne&show_icons=true&locale=en&layout=compact" alt="imetienne" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imetienne&show_icons=true&locale=en alt="imetienne" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imetienne&show_icons=true&locale=en&layout=compact" alt="imetienne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imetienne&show_icons=true&locale=en&layout=compact" alt="imetienne" /></p>
 
