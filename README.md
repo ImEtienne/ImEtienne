@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etienne Kibongani Lombo</h1>
-<h3 align="center">A passionate full Stack sofware developer from France (Paris)</h3>
+<h3 align="center">A passionate full Stack software developer from France (Paris)</h3>
 
 - 🔭 I’m currently working on **personnal Blog**
 
