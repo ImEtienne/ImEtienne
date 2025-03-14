@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [etiennekibongani.com](etiennekibongani.com)
+- 👨‍💻 All of my projects are available at [https://etiennekibongani.com](etiennekibongani.com)
 
 - 📫 How to reach me **etiennekibonganiwork@gmail.com**
 
