@@ -83,30 +83,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImEtienne&show_icons=true&theme=radical" alt="Etienne's GitHub Stats"/>
-</p>
-
-### 💻 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImEtienne&layout=compact&theme=radical" alt="Etienne's Most Used Languages"/>
-</p>
-
 ### 👀 Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ImEtienne&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ImEtienne&theme=radical&no-frame=true&margin-w=10" alt="Etienne's GitHub Trophies"/>
 </p>
 
 ---
